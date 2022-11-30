@@ -6,7 +6,7 @@ L30063660
 
 Path for JSON Message:
 
-https://localhost:8000/hello/
+http://localhost:8000/hello/
 
 Steps to run/start webapp:
 
